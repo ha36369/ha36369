@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi there 👋 I'm game developer.
+
+#### <img alt="c#" src = "https://img.shields.io/badge/-c%23-313131"/>
+#### <img alt="Shader" src = "https://img.shields.io/badge/Shader-313131"/>
+#### <img alt="Unity" src ="https://img.shields.io/badge/Unity-313131?&style=flat-square&logo=appveyor&logo=Unity&logoColor=313131"/>
+
 
 <!--
 **ha36369/ha36369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
