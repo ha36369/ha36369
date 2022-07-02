@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm game developer.
+### Hi there 👋 I'm game developer.
 
 #### <img alt="c#" src = "https://img.shields.io/badge/-c%23-313131"/>
 #### <img alt="Shader" src = "https://img.shields.io/badge/Shader-313131"/>
